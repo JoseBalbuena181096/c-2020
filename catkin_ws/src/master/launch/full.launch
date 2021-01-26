@@ -1,0 +1,16 @@
+<launch>
+<node name="angle_node" pkg="lane_detection" type="lane_dbscan" output="screen"></node>
+<node name="control" pkg="rosserial_python" type="serial_node.py" output="screen">
+<param name="port" value="/dev/ttyACM0"/>
+<param name="baud" value="57600"/>
+</node>
+<node name="sensors" pkg="rosserial_python" type="serial_node.py" output="screen">
+<param name="port" value="/dev/ttyUSB0"/>
+<param name="baud" value="57600"/>
+</node>
+<node name="master_node" pkg="master" type="master" output="screen"></node>
+<node name="jetbot_camera" pkg="jetbot_ros" type="jetbot_camera" output="screen"></node>
+</launch>
+
+
+

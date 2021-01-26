@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/eight.dir/eight.cpp.o  -o eight 

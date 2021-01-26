@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/db.dir/main.cpp.o  -o db  libdbscan.a 

@@ -1,0 +1,3 @@
+fix_fft.c:133:20:FIX_MPY	24	static
+fix_fft.c:162:5:fix_fft	80	static
+fix_fft.c:286:5:fix_fftr	48	static

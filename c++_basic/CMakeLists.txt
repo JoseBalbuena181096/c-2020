@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.1)
+cmake_policy(SET CMP0012 NEW)
+PROJECT(projet)
+
+ADD_EXECUTABLE(first first.cpp)
+ADD_EXECUTABLE(two two.cpp)
+ADD_EXECUTABLE(three three.cpp)
+ADD_EXECUTABLE(four four.cpp)
+ADD_EXECUTABLE(five five.cpp)
+ADD_EXECUTABLE(six six.cpp)
+ADD_EXECUTABLE(seven seven.cpp)
+ADD_EXECUTABLE(eight eight.cpp)
+ADD_EXECUTABLE(nine nine.cpp)

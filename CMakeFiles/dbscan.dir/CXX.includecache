@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jose/Desktop/c++/dbscan.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+math.h
+-
+algorithm
+-
+

@@ -1,0 +1,4 @@
+/home/jose/Desktop/c++/several/dbscan2/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/c++/several/dbscan2/CMakeFiles/db.dir
+/home/jose/Desktop/c++/several/dbscan2/CMakeFiles/edit_cache.dir
+/home/jose/Desktop/c++/several/dbscan2/CMakeFiles/dbscan.dir

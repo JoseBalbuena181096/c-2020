@@ -1,0 +1,12 @@
+15:10:09 **** Build of configuration Debug for project jaja ****
+make all 
+Building file: ../kk.cpp
+Invoking: Cross G++ Compiler
+joseg++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"kk.d" -MT"kk.o" -o "kk.o" "../kk.cpp"
+/bin/sh: 1: joseg++: not found
+subdir.mk:18: recipe for target 'kk.o' failed
+make: *** [kk.o] Error 127
+"make all" terminated with exit code 2. Build might be incomplete.
+
+15:10:09 Build Failed. 2 errors, 0 warnings. (took 67ms)
+

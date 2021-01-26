@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/seven.dir/seven.cpp.o  -o seven 

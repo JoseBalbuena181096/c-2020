@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jose/Desktop/c++/several/dbscan2/dbscan.h
+vector
+-
+math.h
+-
+
+/home/jose/Desktop/c++/several/dbscan2/main.cpp
+iostream
+-
+dbscan.h
+/home/jose/Desktop/c++/several/dbscan2/dbscan.h
+

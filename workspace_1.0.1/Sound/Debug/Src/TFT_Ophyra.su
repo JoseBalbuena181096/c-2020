@@ -1,0 +1,9 @@
+TFT_Ophyra.c:24:19:pfSPI_WRITE	16	static
+TFT_Ophyra.c:30:19:pfTFT_CS_GPIO	16	static
+TFT_Ophyra.c:44:19:pfTFT_RS_GPIO	16	static
+TFT_Ophyra.c:57:19:pfTFT_RESET_GPIO	16	static
+TFT_Ophyra.c:69:19:pfTFT_BACKLIGHT_GPIO	16	static
+TFT_Ophyra.c:79:19:pfDELAY_MS	16	static
+TFT_Ophyra.c:85:19:TFT_Init	16	static
+TFT_Ophyra.c:100:19:TFT_PrintStr	24	static
+TFT_Ophyra.c:110:19:TFT_PrintLine	24	static

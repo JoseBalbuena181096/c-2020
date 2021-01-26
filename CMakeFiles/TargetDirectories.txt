@@ -1,0 +1,4 @@
+/home/jose/Desktop/c++/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/c++/CMakeFiles/edit_cache.dir
+/home/jose/Desktop/c++/CMakeFiles/dbscan.dir
+/home/jose/Desktop/c++/CMakeFiles/map.dir

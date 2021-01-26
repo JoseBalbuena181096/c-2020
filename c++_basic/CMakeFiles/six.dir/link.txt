@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/six.dir/six.cpp.o  -o six 

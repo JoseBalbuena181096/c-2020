@@ -1,0 +1,10 @@
+20:10:17 **** Incremental Build of configuration Debug for project IR ****
+make -j4 all 
+arm-none-eabi-size   IR.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10532	     20	   1668	  12220	   2fbc	IR.elf
+Finished building: default.size.stdout
+ 
+
+20:10:17 Build Finished. 0 errors, 0 warnings. (took 91ms)
+

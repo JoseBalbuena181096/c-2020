@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/four.dir/four.cpp.o  -o four 

@@ -1,0 +1,6 @@
+main.c:87:5:main	16	static
+main.c:148:6:SystemClock_Config	88	static
+main.c:183:6:configurarMPU6050	16	static
+main.c:195:7:pedirDatosMPU	24	static
+main.c:205:6:motores	24	static
+main.c:250:6:Error_Handler	4	static

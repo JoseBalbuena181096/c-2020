@@ -1,0 +1,11 @@
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/edit_cache.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/eight.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/seven.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/six.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/five.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/nine.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/four.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/three.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/two.dir
+/home/jose/Desktop/c++/c++_basic/CMakeFiles/first.dir

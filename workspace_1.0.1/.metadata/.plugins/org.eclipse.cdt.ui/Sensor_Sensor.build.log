@@ -1,7 +1,0 @@
-02:44:55 **** Clean-only build of configuration Debug for project Sensor_Sensor ****
-make -j4 clean 
-rm -rf *
- 
-
-02:44:55 Build Finished. 0 errors, 0 warnings. (took 131ms)
-

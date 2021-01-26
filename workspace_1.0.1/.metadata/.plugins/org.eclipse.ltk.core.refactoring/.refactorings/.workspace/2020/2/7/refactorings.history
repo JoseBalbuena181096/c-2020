@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;carAutomation/Src/main.c&apos;" deleteContents="false" description="Delete resource &apos;carAutomation/Src/main.c&apos;" element1="/carAutomation/Src/main.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1581307746280"/>&#x0A;<refactoring comment="Delete resource &apos;ADC_DAC_JBP&apos;" deleteContents="false" description="Delete resource &apos;ADC_DAC_JBP&apos;" element1="/ADC_DAC_JBP" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1581501951252"/>
-</session>
